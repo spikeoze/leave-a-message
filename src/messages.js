@@ -36,7 +36,7 @@ const Messages = () => {
   }, []);
 
   useEffect(() => {
-    scrollToBottom();``
+    scrollToBottom();
   }, [message]);
 
   // post request
